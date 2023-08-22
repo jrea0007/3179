@@ -1,0 +1,35 @@
+.cases_text {
+    color: #2590c8
+}
+
+.deaths_text {
+    color: #d13141
+}
+
+.red_text {
+    color: #d13141
+}
+
+.green_text {
+    color: #006A4E
+}
+
+.font_20 {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h2 {
+    font-family: 'Open Sans';
+}
+
+p {
+    font-family: 'Open Sans';
+}
